@@ -3,8 +3,11 @@
 # dotenv
 .env
 
+<<<<<<< HEAD
 2.py
 
+=======
+>>>>>>> 644b092 (commit 1)
 # virtualenv
 .venv
 venv/
